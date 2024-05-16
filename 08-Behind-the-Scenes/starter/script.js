@@ -21,8 +21,6 @@ const firstName = 'Dave';
 //     return age;
 // }
 
-//calcAge(2002);
-
 
 //functions are block scoped only in strict mode
 //Variables declared using let or const do not create props on window object
@@ -65,7 +63,7 @@ console.log(first);
 
 const vivek = {
     firstName: "Viv",
-    year: 2002,
+    year: 1990,
 
     calcAge: function(){
         console.log(2024 - this.year);

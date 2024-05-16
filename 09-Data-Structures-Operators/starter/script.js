@@ -907,8 +907,8 @@ const openingHours =  {
 // //split method
 
 // console.log('a+very+nice+string'.split('+'));
-// console.log('Vivek Sarkar'.split(' '));
-// const [firstName,lastName] = 'Vivek Sarkar'.split(' ');
+// console.log('Vivek rtrtre'.split(' '));
+// const [firstName,lastName] = 'Vivek sfsr'.split(' ');
 
 // const newName = ['Mr',firstName,lastName.toUpperCase()].join(' ');
 // console.log(newName);
@@ -932,7 +932,7 @@ const openingHours =  {
 //   console.log(newName.join(' '));
 // }
 
-// capitalizeName('vivEk sArKar');
+// capitalizeName('vivEk gTgrsY');
 
 // //Padding
 // const message = 'Go to gate 23';
