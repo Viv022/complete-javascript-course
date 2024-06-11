@@ -125,8 +125,13 @@ a:visited {
 
   /* Match height and activity boxes */
   height: 9.25rem;
+  
+}
+
+.form--transition {
   transition: all 0.5s, transform 1ms;
 }
+
 
 .form.hidden {
   transform: translateY(-30rem);
